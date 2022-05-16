@@ -104,4 +104,8 @@ hi my name is IR Supera!
 
 # HI!! I am Anmol
 
+<<<<<<< HEAD
 David Bankole here, and this is my addition.
+=======
+David Bankole here, and this is my addition and it was done on this saturday
+>>>>>>> 910713ef4bf033cb04c6ca60593b59a85d61d009
